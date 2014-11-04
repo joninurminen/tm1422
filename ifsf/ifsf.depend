@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1412258980 source:/home/tomi/codeblocks_workspace/ifsf/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ldv.h>
+
+1411039924 source:/home/tomi/codeblocks_workspace/ifsf/daemonize.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<signal.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<syslog.h>
+
+1413183414 source:/ifsf-devel/ifsf/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ldv.h>
+	<syslog.h>
+	"ringbuffer.h"
+	"OpenLDVdefinitions.h"
+
+1413183139 /ifsf-devel/ifsf/ringbuffer.h
+	<stdbool.h>
+
+1413183134 source:/ifsf-devel/ifsf/daemonize.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<signal.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<syslog.h>
+
+1413183138 source:/ifsf-devel/ifsf/ringbuffer.c
+	"ringbuffer.h"
+
+1413183138 /ifsf-devel/ifsf/OpenLDVdefinitions.h
+
+1413186073 source:/media/sf_tm1422/ifsf/daemonize.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<signal.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<syslog.h>
+
+1415027125 source:/media/sf_tm1422/ifsf/main.c
+	<stdio.h>
+	<string.h>
+	<ldv.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	"OpenLDVdefinitions.h"
+
+1413186073 /media/sf_tm1422/ifsf/ringbuffer.h
+	<stdbool.h>
+
+1414594183 /media/sf_tm1422/ifsf/OpenLDVdefinitions.h
+
+1413186073 source:/media/sf_tm1422/ifsf/ringbuffer.c
+	"ringbuffer.h"
+
+1413367016 /media/sf_tm1422/ifsf/OpenLDVtools.h
+
+1414049957 source:/media/sf_tm1422/ifsf/messageHandler.c
+	"messageHandler.h"
+	"OpenLDVdefinitions.h"
+	<stdlib.h>
+	<ldv.h>
+
+1414049965 /media/sf_tm1422/ifsf/messageHandler.h
+	"OpenLDVdefinitions.h"
+	<stdlib.h>
+
+1413791895 source:/media/sf_tm1422/ifsf/debugPrint.c
+	"debugPrint.h"
+
+1413791447 /media/sf_tm1422/ifsf/debugPrint.h
+

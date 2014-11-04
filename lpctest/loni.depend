@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1415025887 source:/home/joni/Documents/loni/loni/main.c
+	<stdlib.h>
+	<stdio.h>
+	<memory.h>
+	<unistd.h>
+	<fcntl.h>
+	<errno.h>
+	<sys/ioctl.h>
+	<sys/poll.h>
+	<sys/time.h>
+
